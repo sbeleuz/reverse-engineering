@@ -1,2 +1,2 @@
 # reverse-engineering
-Reverse Engineering course FMI UniBuc
+[Reverse Engineering course FMI UniBuc](https://cs.unibuc.ro/~crusu/re/)
